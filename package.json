@@ -1,0 +1,17 @@
+{
+  "name": "no-short-skills",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Human-first writing cleanup and evidence-based personal work reports. Built by Long.",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longlonglong173/no-short-skills.git"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

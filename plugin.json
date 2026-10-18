@@ -1,0 +1,35 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "no-short-skills",
+  "version": "0.1.0",
+  "description": "Human-first writing cleanup and evidence-based personal work reports. Built by Long.",
+  "author": {
+    "name": "Long",
+    "url": "https://github.com/longlonglong173"
+  },
+  "homepage": "https://github.com/longlonglong173/no-short-skills",
+  "repository": "https://github.com/longlonglong173/no-short-skills",
+  "keywords": [
+    "agent-skills",
+    "writing",
+    "work-reports",
+    "codex",
+    "claude-code"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "No Short Skills",
+        "shortDescription": "Writing and work-report skills",
+        "longDescription": "Human-first writing cleanup and evidence-based personal work reports. Built by Long.",
+        "developerName": "Long",
+        "category": "Productivity",
+        "websiteURL": "https://github.com/longlonglong173/no-short-skills",
+        "supportURL": "https://github.com/longlonglong173/no-short-skills/issues",
+        "privacyPolicyURL": "https://github.com/longlonglong173/no-short-skills/blob/main/PRIVACY.md",
+        "composerIcon": "./assets/long-mini.png",
+        "logo": "./assets/long-mini.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "no-short-skills",
+  "description": "Human-first writing cleanup and evidence-based personal work reports. Built by Long.",
+  "owner": {
+    "name": "Long"
+  },
+  "plugins": [
+    {
+      "name": "no-short-skills",
+      "source": "./",
+      "description": "Human-first writing cleanup and evidence-based personal work reports. Built by Long.",
+      "version": "0.1.0"
+    }
+  ]
+}
